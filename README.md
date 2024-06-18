@@ -21,8 +21,7 @@ A variety of machine learning models, including Random Forest Regression, K-Near
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/EEG-Emotion-Classification.git
-
+   [git@github.com:tongdaxu/EEG_Emotion_Classifier_DEAP.git](https://github.com/tongdaxu/EEG_Emotion_Classifier_DEAP.git)
 
 2. **Install Dependencies:**
 
@@ -34,14 +33,14 @@ A variety of machine learning models, including Random Forest Regression, K-Near
 
 3. **Run the Scripts:**
 
-   The specific scripts for preprocessing, feature extraction, model training, and evaluation will depend on your project structure. Refer to the provided scripts or create your own based on the code examples.
+   The specific script for preprocessing, feature extraction, model training, and evaluation.
 
 **Data Format**
 
 The expected data format is:
 
 * **Preprocessed EEG data:** `.npy` file containing features extracted from EEG signals.
-* **Labels:** Separate `.npy` file containing emotional labels (valence, arousal, dominance, liking).
+
 
 **Future Work**
 
@@ -49,7 +48,6 @@ This project can be extended in several ways:
 
 * Explore additional machine learning models and hyperparameter tuning for potentially improved performance.
 * Investigate the use of deep learning architectures like convolutional neural networks (CNNs) for EEG classification.
-* Incorporate real-time processing techniques for online emotion recognition applications.
 
 **Contributing**
 
