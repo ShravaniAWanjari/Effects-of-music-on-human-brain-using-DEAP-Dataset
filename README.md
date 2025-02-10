@@ -23,15 +23,8 @@ A variety of machine learning models, including Random Forest Regression, K-Near
    ```bash
    [git@github.com:tongdaxu/EEG_Emotion_Classifier_DEAP.git](https://github.com/tongdaxu/EEG_Emotion_Classifier_DEAP.git)
 
-2. **Install Dependencies:**
 
-   The required dependencies are listed in a `requirements.txt` file. You can install them using:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Scripts:**
+2. **Run the Scripts:**
 
    The specific script for preprocessing, feature extraction, model training, and evaluation.
 
